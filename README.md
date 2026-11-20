@@ -47,5 +47,5 @@ computer science student.
 
 ### Watch My Code Review
 
-[Watch My CS 499 Code Review on YouTube](https://youtu.be/RJnQK0c3Vug)
+[CS 499 Code Review on YouTube](https://youtu.be/RJnQK0c3Vug)
 
